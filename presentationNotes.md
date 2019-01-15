@@ -26,7 +26,7 @@
 
 # salary
 
-- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
+- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
 
 # Why storyboard
 
@@ -207,3 +207,55 @@
 - let me play this for you
 - You can actually draw a box around your button which then links to another picture
 - So I tried that using my example (doc cam)
+
+# lo-fi hi-fi chart
+
+- so again, we started off today learning about using words to create stories/scenarios
+- moved on to storyboards where you're not focused on the user interactions yet
+- then we go to prototypes which is what we just did
+- then finally we go to working code
+
+# codepen example
+
+- so here is someone's example of the idea I just showed you
+- notice: the fields fade out/in, the button text changes
+
+# interesting takes forms
+
+- so this is where I got the first example, but if you scroll down thru them all, you'll be amazed
+- it also has links to their codepen
+- try removing all CSS to see what bare bones looks like
+
+# Discussion 2
+
+- time to do Blackboard work
+- All you have to do is google a service/sw that allows users to develop storyboards/wireframes/prototypes
+- for full marks...
+- 20mins + 10 mins
+
+# Break slides
+
+- read Did you know links
+- gestalt animation vs library staff page (my attempt at gestalt)
+- my one and only claim to fame for animation right there
+
+# todo 3
+
+# youtube scott
+
+- This is where Scott McCrindle put in Blackboard his 18 min video of how to do a prototype within powerpoint
+- I'm going to attempt to do the same thing he does
+
+# user interaction storyboard
+
+- he sets up a setting/scenario
+- let's create a prototype in storyboard format of the sequence of animation
+- Note: the term "storyboard" here is used differently to how most UI/UX designers use it.
+- because we're actually interested in how it animates (vs storyboard you aren't yet)
+- then after this, I'm going to show you a different tool that you can use (Figma)
+- you will have the choice between ppt, Figma, Pop app, pencil/paper (scan it send it to me), export something to me in PDF
+- so I'm going to create this sequence in ppt
+
+# demo ppt
+
+- fyi: the end goal is in Blackboard "Example of a ppt storyboard"
