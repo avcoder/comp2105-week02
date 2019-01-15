@@ -26,7 +26,7 @@
 
 # salary
 
-- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
+- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
 
 # Why storyboard
 
@@ -115,3 +115,47 @@
 # setting
 
 - Storyboards have 3 concepts
+- read comic and 3 questions
+- not quite yet at the interface level
+
+# sequence
+
+# satisfaction
+
+# tips
+
+1. -
+2. -
+3. - a lot of UI/UX designers just use pencil/paper
+
+# Klemmer quote
+
+- everytime Scott teaches a class, and students have gone on and graduated, graduates always come back and say, the best thing I've learned from your class is that I can rapidly prototype things on paper -- and that's what we'll be doing today
+
+# Click thru prototypes
+
+- again started with stories/scenarios, storyboards, and now we're here
+
+# todo today prototypes
+
+# paper prototyping
+
+- we're going to talk about paper prototyping because I think that's the best way to go
+- the reason why you paper prototype are 3
+- read 3:
+
+1. -
+2. - I'll show you a video in a second of what that kind of looks like
+3. - one thing about paper prototypes is that it's so low-fidelity that it looks like a little kid from kindergarten made it-- but that's what you want because you'll get honest feedback. Imagine if you created a high-fidelity prototype within Photoshop and showed it to somebody and asked for feedback -- they're going to be more hesitant to give you honest feedback. Whereas if you had the paper prototypes, you'd have better suggestions like 'hey I think this box would look better over here'
+
+# IDEO mouse
+
+- when MS was going to introduce their mouse, they hired IDEO to prototype what it should look like
+- read it
+- and that's what we're doing with paper prototypes -- we're holding it in your hand
+
+# paper proto example
+
+- so here's an example of paper prototypes, notice they're just using markers, paper
+- time widget, and sliders is just one piece of paper and it's not even glued so it's movable
+- this is the kind of thing UI/UX designers do all the time
