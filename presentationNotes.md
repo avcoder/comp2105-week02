@@ -26,7 +26,7 @@
 
 # salary
 
-- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
+- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
 
 # Why storyboard
 
@@ -159,3 +159,51 @@
 - so here's an example of paper prototypes, notice they're just using markers, paper
 - time widget, and sliders is just one piece of paper and it's not even glued so it's movable
 - this is the kind of thing UI/UX designers do all the time
+
+# youtube vid
+
+- show an example of that here (volume off)
+- notice they have all drawings in place; all buttons in place
+- they're pretending
+- start with scenarios, then storyboards, then paper prototypes
+- this again irons out possible errors, or confusion in the workflow
+- so that's what we'll be doing today
+
+# klemmer quote
+
+- and that's why it's a waste of time to go from ideation to photoshop because it might be trash
+- so don't waste your time
+
+# tips
+
+- Once you've done this phase of paper prototyping and you've gone thru that workflow...
+
+# Pinterest
+
+- brainstorm time
+- anyone brought their pen/pencil? - i have some
+- so now everyone has a pencil, storyboard template, blank sheet
+- let's go to pinterest.com, most websites are like this, here's your challenge/exercise,
+- it's not being marked, purely for brainstorming skills and intro to this kind of UI/UX work
+- so if you're not a user, you have to create
+- but if you are a user, then you're presented with a different form
+- but if you forgot your password, then you're presented with a different form -- one field, email
+- challenge: try to think of a way to make all these separate forms into 1 fluid animated experience
+- 10 minutes, once you finish it, show it to each other at your table, and just talk about it -- use the blank piece of paper
+- 10 secs left! - okay, so at this point, I want you to practice verbalizing what you drew to someone else (try to use the principles of animation vocabulary). I'll give you another 7 mins for that. [Prepare document camera]
+- [Create a notepad saying, "Find a partner, and practice verbalizing what you drew to each other]
+- Now that you had a chance to share, I'm curious to see your ideas, if you had commonalities
+- Does anyone want to share their ideas?
+
+# my drawing
+
+- Here's a solution (tho this is not my idea, someone else's)
+- we have 3 tabs
+- what if the fields fade out depending on which tab you click on
+
+# Pop app
+
+- a real cool tool that I found as I was researching what to put on my slides last year was this Pop app
+- let me play this for you
+- You can actually draw a box around your button which then links to another picture
+- So I tried that using my example (doc cam)
