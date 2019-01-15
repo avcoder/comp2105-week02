@@ -26,7 +26,7 @@
 
 # salary
 
-- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
+- good \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$\$
 
 # Why storyboard
 
@@ -259,3 +259,33 @@
 # demo ppt
 
 - fyi: the end goal is in Blackboard "Example of a ppt storyboard"
+- so I'm recreating this in ppt, figma etc
+- so if you want to silently work on this because you already know how to do this, go ahead
+- make setting page
+- for 4-up page: insert iphone.jpg
+
+- Done: you start with setting, sequence of UI, put captions, end result is satisfaction
+- "storyboard" - again: do not draw dropdown menus at storyboard level
+- yet in Scott's mccrindle video he's using the term 'storyboard' but it's different def'n
+- he's just using storyboard template to draw interfaces
+- so that's it, cool thing, you can F5 to present to client in slideshow format
+
+# figma
+
+- when I was doing my research, this seems to be the shiny new toy that everyone wants to use
+- like Sketch (limited to Mac users), Figma is web based or client, Adobe XD
+- view their homepage
+- yes you can draw hi-fi stuff here, but you can also do lo-fi
+- you can also share it to a client via presentation mode
+
+- Done: show finished product
+- you can present it, which is great to show to clients
+- Plus Figma allows collaboration, show colleagues can comment etc
+
+# In-class exercise
+
+- given 3 scenarios, choose only 1 of them (search bar, tab, form). Put that in storyboard chart. Prototype on how you envision animation should be
+- so if pencil/paper scan it, or ppt, or figma, or Adobe XD/whatever as long as I can see it via a link, or PDF/ppt/doc format
+- Again you have a choice for your in-class
+- no quiz today
+- if you need more forms ...
